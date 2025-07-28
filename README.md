@@ -1,5 +1,7 @@
 # servo_contro
 A modern web application for controlling robot servos, saving poses, and executing movements
+
+## SCREENSHOT
 ![servo_control](exe_img.png) ![servo_control](control_img.png)
 
 ## Features
@@ -28,3 +30,38 @@ MySQL 5.7 or higher
 Web server (Apache recommended)
 
 Modern web browser
+
+
+## Usage
+Adjust Servo Angles
+
+Save a Pose
+
+Load a Pose
+
+Execute a Pose
+
+Delete a Pose
+
+## Technologies Used
+Frontend:
+
+HTML5
+CSS3 
+JavaScript 
+
+Backend:
+
+PHP 7.4+
+
+MySQL
+
+PDO for database access
+
+Design:
+
+Glass-morphism UI
+
+Responsive layout
+
+Smooth animations
