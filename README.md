@@ -1,11 +1,11 @@
 # servo_contro
 A modern web application for controlling robot servos, saving poses, and executing movements
 
-## SCREENSHOT
+## SCREENSHOTS
 ![servo_control](exe_img.png) ![servo_control](control_img.png)
 
 ## Features
- Control 6 servos with intuitive angle sliders
+   Control 6 servos with intuitive angle sliders
 
 💾 Save custom poses with descriptive names
 
