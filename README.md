@@ -18,3 +18,13 @@ A modern web application for controlling robot servos, saving poses, and executi
 📊 Database storage for all poses
 
 🔔 Interactive notifications for user feedback
+
+
+## Requirements
+PHP 7.4 or higher
+
+MySQL 5.7 or higher
+
+Web server (Apache recommended)
+
+Modern web browser
